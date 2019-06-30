@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=DM+Sans|DM+Serif+Display&display=swap');
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: 'DM Sans', sans-serif;
   background: rgba(242, 242, 242, .6);
@@ -18,6 +22,7 @@ body {
   width: 100%; /* Full width */
   display: flex;
   justify-content: center;
+  scroll-behavior: smooth;
 }
 
 .navbar a {
@@ -131,6 +136,14 @@ canvas {
   background-color: #f0f0f0;
 }
 
+
+.roww {
+  display: flex;
+  background-color: #f0f0f0;
+  height: 100vh;
+  /*padding-top: 170px;*/
+}
+
 .white {
   background: #242424;
 }
@@ -182,6 +195,15 @@ h5 {
   text-align: center;
   margin-bottom: 25px;
   margin-top: 35px;
+}
+
+h6 {
+  font-weight: 400;
+  /*font-family: 'Helvetica Neue', serif;*/
+  font-size: 2rem;
+  color: #878787;
+  text-transform: uppercase;
+  text-align: center;
 }
 
 .content-body {
@@ -291,6 +313,14 @@ h6 {
   background: #242424;
   text-align: center;
 }
+
+.bigtext {
+  background: #242424;
+  text-align: justify;
+  font-size: 1.6em;
+
+}
+
 
 .contact {
   max-width: 500px;
