@@ -1,7 +1,7 @@
 ## Open Source, Fully customizable Web Developer Portfolio Template
 Built with HTML, Flexbox (and soon to be a bit of JS)
 
-To view a live demo, **[click here](https://bmorelli25.github.com/portfolio-template)**
+To view a live demo, **[click here](https://gk5894.github.io/)**
 
 This repo is an easily customizable personal portfolio template. Feel free to use it as-is or customize it as much as you want. I wanted to build a very simple template without any unnecessary bloat. 
 
@@ -12,8 +12,8 @@ There are 8 customizable sections:
 **Jumbotron** - Edit the `h1` and `p` in the jumbotron-text `div`
 ```
 <div class="jumbotron-text">
-  <h1>Brandon Morelli</h1>
-  <p>Full-Stack Web Developer in Boston, Ma.</p>
+  <h1>Gaurav Kshirsagar</h1>
+  <p>Data Scientist in NYC</p>
 </div>
 ```
 ---
