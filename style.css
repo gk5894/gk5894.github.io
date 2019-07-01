@@ -178,10 +178,10 @@ body {
 }
 
 h2 {
-  font-weight: 400;
+  font-weight: 600;
   /*font-family: 'Helvetica Neue', serif;*/
   font-size: 2rem;
-  color: #878787;
+  color: #242424;
   text-transform: uppercase;
   text-align: center;
 }
@@ -317,7 +317,7 @@ h6 {
 .bigtext {
   /*background: #242424;*/
   text-align: justify;
-  font-size: 1.7em;
+  font-size: 1.2em;
   color: #ffb957;
 
 }
