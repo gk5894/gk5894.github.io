@@ -16,8 +16,8 @@ body {
 }
 
 img {
-  border-radius: 8%;
-  border: 4px solid #baa482;
+  border-radius: 5%;
+  border: 4px solid #b3b3b3;
 }
 /*NAVBAR*/
 .navbar {
@@ -75,7 +75,7 @@ img {
   font-size: 2em;
   color: white;
   text-align: center;
-  padding-top: 170px;
+  padding-top: 200px;
 }
 
 .jumbotron-text h1 {
