@@ -5,7 +5,8 @@ html {
 }
 
 body {
-  font-family: 'DM Sans', sans-serif;
+  /*font-family: 'DM Sans', sans-serif;*/
+  font-family: 'SF Pro Display', sans-serif;
   background: rgba(242, 242, 242, .6);
   margin: 0;
 }
