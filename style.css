@@ -76,9 +76,10 @@ body {
 
 .jumbotron-text h1 {
   /*YOUR NAME*/
-  font-family: 'DM Serif Display', serif;
-  font-weight: 400;
-  font-size: 3em;
+  /*font-family: 'DM Serif Display', serif;*/
+  font-family: 'SF Pro Display', sans-serif;
+  font-weight: 650;
+  font-size: 2.8em;
   color: #242424;
   text-align: center;
   /*padding-left: 100px;*/
@@ -89,10 +90,20 @@ body {
   margin: 0;
   font-family: 'DM Sans', sans-serif;
   text-align: center;
+  font-size: 0.79em;
   color: #242424;
   /*padding-left: 110px;*/
 }
 
+.jumbotron-text h4 {
+  margin: 0;
+  font-family: 'Helvetica Neue', sans-serif;
+  text-align: center;
+  font-size: 1.1em;
+  font-weight: 500;
+  color: #242424;
+  /*padding-left: 110px;*/
+}
 /*SOCIAL LINKS*/
 .ul-social {
   text-align: center;
